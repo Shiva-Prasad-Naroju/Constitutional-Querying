@@ -1,0 +1,469 @@
+[
+  {
+    "article_number": "Article 14",
+    "article_title": "Equality before law",
+    "description": "The State shall not deny to any person equality before the law or the equal protection of the laws within the territory of India.",
+    "constitutional_principle": "Rule of Law, Equal protection",
+    "related_articles": ["Article 15", "Article 16"],
+    "simple_explanation": "Every person, Indian or foreigner, is treated equally before the law. No special privileges based on wealth, status, or background.",
+    "examples": [
+      "If two people commit the same crime, they will face the same punishment, regardless of social status.",
+      "A government officer and a normal citizen are equally subject to the law."
+    ]
+  },
+  {
+    "article_number": "Article 19",
+    "article_title": "Protection of certain rights regarding freedom of speech, etc.",
+    "description": "All citizens shall have the right to freedom of speech and expression, to assemble peacefully, to form associations, to move freely, to reside and settle in any part of India, and to practice any profession or carry on any trade.",
+    "constitutional_principle": "Fundamental Rights - Freedom of Speech and Expression",
+    "related_articles": ["Article 21", "Article 22"],
+    "simple_explanation": "Indians can speak freely, protest peacefully, form groups, travel across India, and work in any profession they choose.",
+    "examples": [
+      "You can express your opinion on social media without government interference (within reasonable restrictions).",
+      "Citizens can move to any state for education or work."
+    ]
+  },
+  {
+    "article_number": "Article 21",
+    "article_title": "Protection of life and personal liberty",
+    "description": "No person shall be deprived of his life or personal liberty except according to procedure established by law.",
+    "constitutional_principle": "Right to Life and Liberty",
+    "related_articles": ["Article 20", "Article 22"],
+    "simple_explanation": "Every person has the right to live with dignity. The government cannot take away life or freedom without fair legal procedure.",
+    "examples": [
+      "Right to privacy was declared part of Article 21 by the Supreme Court.",
+      "Police cannot arrest someone without following proper legal procedures."
+    ]
+  },
+  {
+    "article_number": "Article 32",
+    "article_title": "Remedies for enforcement of rights",
+    "description": "The right to move the Supreme Court by appropriate proceedings for the enforcement of Fundamental Rights is guaranteed.",
+    "constitutional_principle": "Right to Constitutional Remedies",
+    "related_articles": ["Article 226"],
+    "simple_explanation": "If your fundamental rights are violated, you can directly approach the Supreme Court for justice.",
+    "examples": [
+      "If freedom of speech is unfairly restricted, you can file a petition in the Supreme Court.",
+      "Dr. B.R. Ambedkar called Article 32 the 'heart and soul' of the Constitution."
+    ]
+  },
+  {
+    "article_number": "Article 368",
+    "article_title": "Power of Parliament to amend the Constitution",
+    "description": "Parliament may amend by way of addition, variation, or repeal any provision of this Constitution in accordance with the procedure laid down.",
+    "constitutional_principle": "Amendment of the Constitution",
+    "related_articles": ["Article 13"],
+    "simple_explanation": "Parliament has the power to change the Constitution, but it must follow a strict procedure and cannot alter the 'basic structure'.",
+    "examples": [
+      "The 42nd Amendment (1976) is known as the 'Mini-Constitution'.",
+      "In Kesavananda Bharati case, the Supreme Court ruled that the 'basic structure' cannot be amended."
+    ]
+  },
+  {
+    "article_number": "Article 12",
+    "article_title": "Definition of the State",
+    "description": "In this Part, unless the context otherwise requires, 'the State' includes the Government and Parliament of India, the Government and Legislature of each State, and all local or other authorities within the territory of India or under the control of the Government of India.",
+    "constitutional_principle": "Scope of Fundamental Rights",
+    "related_articles": ["Article 13", "Article 14"],
+    "simple_explanation": "When the Constitution says 'State', it includes the central government, state governments, and public authorities.",
+    "examples": [
+      "A government company or authority like LIC is considered part of the 'State' under Article 12.",
+      "Fundamental rights can be enforced against government authorities."
+    ]
+  },
+  {
+    "article_number": "Article 15",
+    "article_title": "Prohibition of discrimination",
+    "description": "The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, or place of birth.",
+    "constitutional_principle": "Equality and Non-discrimination",
+    "related_articles": ["Article 14", "Article 16"],
+    "simple_explanation": "No one can be treated unfairly because of religion, caste, gender, race, or birthplace.",
+    "examples": [
+      "A government job cannot deny someone only because of caste.",
+      "A university cannot exclude women from applying just because of their gender."
+    ]
+  },
+  {
+    "article_number": "Article 16",
+    "article_title": "Equality of opportunity in public employment",
+    "description": "There shall be equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State.",
+    "constitutional_principle": "Equal Opportunity in Jobs",
+    "related_articles": ["Article 15", "Article 335"],
+    "simple_explanation": "All citizens should get equal chances in government jobs. Reservations are allowed for backward classes.",
+    "examples": [
+      "Recruitment exams must be open for all eligible candidates.",
+      "SC/ST and OBC reservations in government jobs are permitted."
+    ]
+  },
+  {
+    "article_number": "Article 17",
+    "article_title": "Abolition of Untouchability",
+    "description": "Untouchability is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of 'untouchability' shall be an offence punishable by law.",
+    "constitutional_principle": "Social Equality",
+    "related_articles": ["Article 15", "Article 16"],
+    "simple_explanation": "No one can be treated as 'untouchable' in society. Any such practice is illegal.",
+    "examples": [
+      "Preventing someone from entering a temple because of caste is a violation.",
+      "Untouchability Offences Act, 1955 was made to enforce this."
+    ]
+  },
+  {
+    "article_number": "Article 19",
+    "article_title": "Freedom of speech and expression",
+    "description": "All citizens shall have the right to freedom of speech and expression, to assemble peacefully, to form associations, to move freely, to reside and settle in any part of India, and to practice any profession or carry on any occupation, trade or business.",
+    "constitutional_principle": "Fundamental Freedom",
+    "related_articles": ["Article 21", "Article 22"],
+    "simple_explanation": "People can express opinions, protest peacefully, move anywhere, and choose jobs freely, within reasonable restrictions.",
+    "examples": [
+      "You can criticize government policies in a peaceful protest.",
+      "Citizens can move to any state for work or education."
+    ]
+  },
+  {
+    "article_number": "Article 21A",
+    "article_title": "Right to Education",
+    "description": "The State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine.",
+    "constitutional_principle": "Fundamental Right to Education",
+    "related_articles": ["Article 21", "Article 45"],
+    "simple_explanation": "Every child between 6–14 years has a right to free education.",
+    "examples": [
+      "Government schools must provide free education up to class 8.",
+      "Private schools must reserve some seats for children from weaker sections."
+    ]
+  },
+  {
+    "article_number": "Article 32",
+    "article_title": "Right to Constitutional Remedies",
+    "description": "The right to move the Supreme Court by appropriate proceedings for the enforcement of Fundamental Rights is guaranteed.",
+    "constitutional_principle": "Judicial Remedies for Rights",
+    "related_articles": ["Article 226"],
+    "simple_explanation": "If your fundamental rights are violated, you can directly go to the Supreme Court.",
+    "examples": [
+      "You can file a writ petition in the Supreme Court against unlawful detention.",
+      "Dr. Ambedkar called this the 'heart and soul' of the Constitution."
+    ]
+  },
+  {
+    "article_number": "Article 44",
+    "article_title": "Uniform Civil Code",
+    "description": "The State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India.",
+    "constitutional_principle": "Directive Principle - Equality in Personal Laws",
+    "related_articles": ["Article 25", "Article 26"],
+    "simple_explanation": "India should have a common set of personal laws (like marriage, divorce, inheritance) for all religions.",
+    "examples": [
+      "Currently, Hindus, Muslims, and Christians follow different marriage laws.",
+      "The debate on UCC continues in modern politics."
+    ]
+  },
+  {
+    "article_number": "Article 51A",
+    "article_title": "Fundamental Duties",
+    "description": "It shall be the duty of every citizen of India to abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem.",
+    "constitutional_principle": "Citizen Responsibilities",
+    "related_articles": ["Article 51", "Article 19"],
+    "simple_explanation": "Every citizen has duties like respecting the Constitution, environment, and promoting harmony.",
+    "examples": [
+      "Respecting the National Anthem is a duty.",
+      "Protecting forests and wildlife is part of fundamental duties."
+    ]
+  },
+  {
+    "article_number": "Article 368",
+    "article_title": "Amendment of the Constitution",
+    "description": "Parliament may amend by way of addition, variation, or repeal any provision of this Constitution in accordance with the procedure laid down.",
+    "constitutional_principle": "Power to Amend",
+    "related_articles": ["Article 13"],
+    "simple_explanation": "Parliament can change the Constitution but cannot alter its 'basic structure'.",
+    "examples": [
+      "The 42nd Amendment (1976) made major changes to Fundamental Duties.",
+      "The Kesavananda Bharati case restricted Parliament from destroying the basic structure."
+    ]
+  },
+  {
+    "article_number": "Article 20",
+    "article_title": "Protection in respect of conviction for offences",
+    "description": "No person shall be convicted of any offence except for violation of law in force at the time of the commission of the act, and shall not be subjected to a penalty greater than that prescribed by law.",
+    "constitutional_principle": "Protection against ex post facto laws, double jeopardy, and self-incrimination",
+    "related_articles": ["Article 21", "Article 22"],
+    "simple_explanation": "You cannot be punished under a law made after your act, cannot be punished twice for the same crime, and cannot be forced to testify against yourself.",
+    "examples": [
+      "If something was legal yesterday, you cannot be punished today because a new law bans it.",
+      "One cannot be tried twice for the same offence."
+    ]
+  },
+  {
+    "article_number": "Article 22",
+    "article_title": "Protection of life and personal liberty in cases of preventive detention",
+    "description": "Provides rights in case of arrest and detention, but also permits preventive detention for reasons of state security and public order.",
+    "constitutional_principle": "Rights of arrested persons",
+    "related_articles": ["Article 20", "Article 21"],
+    "simple_explanation": "Everyone has rights if arrested, but preventive detention is allowed for national security.",
+    "examples": [
+      "A detainee must be produced before a magistrate within 24 hours.",
+      "Preventive detention can last up to 3 months without advisory board approval."
+    ]
+  },
+  {
+    "article_number": "Article 23",
+    "article_title": "Prohibition of traffic in human beings and forced labour",
+    "description": "Traffic in human beings and begar and other similar forms of forced labour are prohibited.",
+    "constitutional_principle": "Human dignity and freedom",
+    "related_articles": ["Article 24"],
+    "simple_explanation": "Slavery, human trafficking, and forced labour are banned.",
+    "examples": [
+      "Bonded labour is illegal in India.",
+      "Trafficking women for prostitution violates Article 23."
+    ]
+  },
+  {
+    "article_number": "Article 25",
+    "article_title": "Freedom of conscience and free profession, practice, and propagation of religion",
+    "description": "All persons are equally entitled to freedom of conscience and the right to freely profess, practice, and propagate religion.",
+    "constitutional_principle": "Religious Freedom",
+    "related_articles": ["Article 26", "Article 27"],
+    "simple_explanation": "Every individual can follow, change, and practice their religion freely.",
+    "examples": [
+      "A Hindu can convert to Christianity or Islam by choice.",
+      "Religious processions are allowed but subject to public order."
+    ]
+  },
+  {
+    "article_number": "Article 29",
+    "article_title": "Protection of interests of minorities",
+    "description": "Any section of the citizens having a distinct language, script, or culture of its own shall have the right to conserve the same.",
+    "constitutional_principle": "Cultural Rights",
+    "related_articles": ["Article 30"],
+    "simple_explanation": "Minorities can protect their language, culture, and traditions.",
+    "examples": [
+      "Kannada-speaking people in Maharashtra can open Kannada schools.",
+      "Tribal communities can preserve their unique customs."
+    ]
+  },
+  {
+    "article_number": "Article 30",
+    "article_title": "Right of minorities to establish and administer educational institutions",
+    "description": "All minorities, whether based on religion or language, shall have the right to establish and administer educational institutions of their choice.",
+    "constitutional_principle": "Minority Rights in Education",
+    "related_articles": ["Article 29"],
+    "simple_explanation": "Minorities can set up their own schools and colleges.",
+    "examples": [
+      "Christian minority institutions like St. Xavier’s College are protected under Article 30.",
+      "Muslim institutions like Aligarh Muslim University have constitutional protection."
+    ]
+  },
+  {
+    "article_number": "Article 39",
+    "article_title": "Directive Principles of State Policy (economic justice)",
+    "description": "The State shall direct its policy towards securing that men and women equally have the right to adequate means of livelihood, and resources are not concentrated in the hands of a few.",
+    "constitutional_principle": "Welfare State and Economic Justice",
+    "related_articles": ["Article 38", "Article 41"],
+    "simple_explanation": "Government should ensure fair distribution of wealth and equal livelihood opportunities.",
+    "examples": [
+      "Reservation policies are linked with the spirit of Article 39.",
+      "Land reforms were based on this principle."
+    ]
+  },
+  {
+    "article_number": "Article 50",
+    "article_title": "Separation of judiciary from executive",
+    "description": "The State shall take steps to separate the judiciary from the executive in the public services of the State.",
+    "constitutional_principle": "Judicial Independence",
+    "related_articles": ["Article 124", "Article 226"],
+    "simple_explanation": "Judges must be independent of government control.",
+    "examples": [
+      "District Magistrates cannot interfere with judicial courts.",
+      "Judicial reforms are based on Article 50."
+    ]
+  },
+  {
+    "article_number": "Article 352",
+    "article_title": "National Emergency",
+    "description": "If the President is satisfied that the security of India is threatened by war, external aggression, or armed rebellion, a National Emergency may be proclaimed.",
+    "constitutional_principle": "Emergency Provisions",
+    "related_articles": ["Article 356", "Article 360"],
+    "simple_explanation": "A National Emergency gives extra powers to the Union Government.",
+    "examples": [
+      "Indira Gandhi declared Emergency in 1975 under Article 352.",
+      "During Emergency, some Fundamental Rights can be suspended."
+    ]
+  },
+  {
+    "article_number": "Article 356",
+    "article_title": "President's Rule in States",
+    "description": "If the President is satisfied that the governance of a State cannot be carried on according to the Constitution, he may assume the functions of the State Government.",
+    "constitutional_principle": "Emergency in States",
+    "related_articles": ["Article 352", "Article 360"],
+    "simple_explanation": "If a State Government fails, the President can take over its functions.",
+    "examples": [
+      "President’s Rule was imposed in Jammu & Kashmir multiple times.",
+      "If no party wins a majority in a State, President’s Rule can be declared."
+    ]
+  },
+  {
+    "article_number": "Article 226",
+    "article_title": "Power of High Courts to issue writs",
+    "description": "High Courts can issue writs for enforcement of Fundamental Rights and other purposes.",
+    "constitutional_principle": "Judicial Review",
+    "related_articles": ["Article 32"],
+    "simple_explanation": "High Courts also protect rights, not just the Supreme Court.",
+    "examples": [
+      "A person can go to High Court for Habeas Corpus against unlawful detention.",
+      "High Courts can issue writs even for legal rights, not only Fundamental Rights."
+    ]
+  },
+  {
+    "article_number": "Article 110",
+    "article_title": "Money Bill",
+    "description": "Defines what constitutes a Money Bill, which can only be introduced in the Lok Sabha.",
+    "constitutional_principle": "Financial Legislation",
+    "related_articles": ["Article 109", "Article 111"],
+    "simple_explanation": "Bills related to taxes and government money must start in Lok Sabha.",
+    "examples": [
+      "GST-related bills are Money Bills.",
+      "Finance Bill is always a Money Bill."
+    ]
+  },
+  {
+    "article_number": "Article 112",
+    "article_title": "Annual Financial Statement (Union Budget)",
+    "description": "The President shall cause to be laid before both Houses of Parliament the Annual Financial Statement.",
+    "constitutional_principle": "Union Budget",
+    "related_articles": ["Article 110"],
+    "simple_explanation": "The government’s yearly budget is presented in Parliament.",
+    "examples": [
+      "The Union Budget every year is mandated by Article 112."
+    ]
+  },
+  {
+    "article_number": "Article 123",
+    "article_title": "Power of President to promulgate Ordinances",
+    "description": "When Parliament is not in session, the President may issue ordinances having the force of law.",
+    "constitutional_principle": "Ordinance-making power",
+    "related_articles": ["Article 213"],
+    "simple_explanation": "President can make temporary laws when Parliament is not working.",
+    "examples": [
+      "Banking Regulation Ordinance before passing in Parliament.",
+      "Indira Gandhi used ordinances frequently."
+    ]
+  },
+  {
+    "article_number": "Article 136",
+    "article_title": "Special leave to appeal by the Supreme Court",
+    "description": "The Supreme Court may grant special leave to appeal from any judgment, decree, determination, sentence or order.",
+    "constitutional_principle": "Supreme Court discretionary power",
+    "related_articles": ["Article 32", "Article 226"],
+    "simple_explanation": "SC can allow appeals from lower courts in exceptional cases.",
+    "examples": [
+      "Any citizen can approach SC if they feel injustice has occurred.",
+      "SC intervened in many landmark cases through Article 136."
+    ]
+  },
+  {
+    "article_number": "Article 137",
+    "article_title": "Review of judgments or orders by the Supreme Court",
+    "description": "The Supreme Court shall have power to review its own judgments or orders.",
+    "constitutional_principle": "Judicial Review",
+    "related_articles": ["Article 136"],
+    "simple_explanation": "SC can change its own judgment if needed.",
+    "examples": [
+      "SC reviewed its Sabarimala temple entry judgment.",
+      "Review petitions are filed under Article 137."
+    ]
+  },
+  {
+    "article_number": "Article 141",
+    "article_title": "Law declared by Supreme Court binding on all courts",
+    "description": "The law declared by the Supreme Court shall be binding on all courts within India.",
+    "constitutional_principle": "Judicial Precedent",
+    "related_articles": ["Article 144"],
+    "simple_explanation": "Whatever SC decides, lower courts must follow.",
+    "examples": [
+      "Kesavananda Bharati case (Basic Structure) binds all courts.",
+      "Right to Privacy judgment is binding."
+    ]
+  },
+  {
+    "article_number": "Article 148",
+    "article_title": "Comptroller and Auditor General of India (CAG)",
+    "description": "CAG is appointed to audit government accounts and ensure financial accountability.",
+    "constitutional_principle": "Financial Accountability",
+    "related_articles": ["Article 149"],
+    "simple_explanation": "CAG checks if government spends money properly.",
+    "examples": [
+      "CAG exposed the 2G spectrum scam.",
+      "CAG audits defence and railway accounts."
+    ]
+  },
+  {
+    "article_number": "Article 194",
+    "article_title": "Powers, privileges and immunities of State Legislatures",
+    "description": "State Legislatures enjoy certain privileges similar to Parliament to function independently.",
+    "constitutional_principle": "Legislative Privileges",
+    "related_articles": ["Article 105"],
+    "simple_explanation": "MLAs in State Assemblies enjoy certain immunities like MPs.",
+    "examples": [
+      "Freedom of speech in State Assemblies.",
+      "Protection from court proceedings for statements inside Assembly."
+    ]
+  },
+  {
+    "article_number": "Article 280",
+    "article_title": "Finance Commission",
+    "description": "The President shall constitute a Finance Commission every five years to recommend distribution of taxes between Union and States.",
+    "constitutional_principle": "Centre-State Financial Relations",
+    "related_articles": ["Article 281"],
+    "simple_explanation": "A Finance Commission ensures fair distribution of money between Centre and States.",
+    "examples": [
+      "15th Finance Commission gave recommendations for 2021-26.",
+      "It decides how much GST share States get."
+    ]
+  },
+  {
+    "article_number": "Article 300A",
+    "article_title": "Right to Property",
+    "description": "No person shall be deprived of his property except by authority of law.",
+    "constitutional_principle": "Legal Right (not Fundamental Right)",
+    "related_articles": ["Article 31 (repealed)"],
+    "simple_explanation": "Property rights exist but are no longer fundamental.",
+    "examples": [
+      "Government can acquire land only through legal process.",
+      "Compensation must be given for acquisition."
+    ]
+  },
+  {
+    "article_number": "Article 368",
+    "article_title": "Amendment of the Constitution",
+    "description": "The Parliament may amend by way of addition, variation or repeal any provision of this Constitution.",
+    "constitutional_principle": "Constitutional Amendment",
+    "related_articles": ["Article 13"],
+    "simple_explanation": "Parliament can change the Constitution through special procedures.",
+    "examples": [
+      "42nd Amendment added words 'Socialist' and 'Secular'.",
+      "101st Amendment introduced GST."
+    ]
+  },
+  {
+    "article_number": "Article 370",
+    "article_title": "Temporary provisions with respect to the State of Jammu and Kashmir (abrogated in 2019)",
+    "description": "Special status was granted to J&K under Article 370, later abrogated in August 2019.",
+    "constitutional_principle": "Special Status",
+    "related_articles": ["Article 371"],
+    "simple_explanation": "J&K had special autonomy, but now it is revoked.",
+    "examples": [
+      "Before 2019, J&K had its own Constitution.",
+      "After abrogation, Indian laws apply directly."
+    ]
+  },
+  {
+    "article_number": "Article 371",
+    "article_title": "Special provisions for certain States",
+    "description": "Provides special provisions for states like Maharashtra, Gujarat, Nagaland, Assam, Manipur, Andhra Pradesh, etc.",
+    "constitutional_principle": "Regional Autonomy",
+    "related_articles": ["Article 370"],
+    "simple_explanation": "Some states have special safeguards for their culture, law, and governance.",
+    "examples": [
+      "Nagaland has autonomy regarding its customary laws.",
+      "Maharashtra and Gujarat got provisions for separate development boards."
+    ]
+  }
+]
